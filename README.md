@@ -22,12 +22,7 @@
   </a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-2025_Certified_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI Certified"/>
-  <img src="https://img.shields.io/badge/KodeKloud-DevOps_Mastery-2496ED?style=flat-square" alt="DevOps Mastery"/>
-  <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Linux Essentials"/>
-  <img src="https://img.shields.io/badge/IBM-Docker_Essentials-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="Docker Essentials"/>
-</p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Tamazight-Native-1F2428?style=flat-square" alt="Tamazight Native"/>

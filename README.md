@@ -27,7 +27,7 @@
 
 <br/><br/>
 
-<img src="assets/wallpaper.jpg" alt="Banner" width="835" />
+<img src="/wallpaper.jpg" alt="Banner" width="835" />
 
 <br/><br/>
 

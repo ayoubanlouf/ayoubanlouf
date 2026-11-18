@@ -40,7 +40,7 @@
 <br/>
 
 <a href="https://github.com/ayoubanlouf">
-  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,ubuntu,bash,powershell,postgres,prometheus,grafana,git,postman&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,js,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,prometheus,grafana,git,postman&perline=10" alt="Tech Stack"/>
 </a>
 
 <p>

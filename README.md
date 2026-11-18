@@ -40,7 +40,7 @@
 <br/>
 
 <a href="https://github.com/ayoubanlouf">
-  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,grafana,git,github,postman,vscode&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,ubuntu,bash,powershell,postgres,prometheus,grafana,git,postman&perline=10" alt="Tech Stack"/>
 </a>
 
 <p>
@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>

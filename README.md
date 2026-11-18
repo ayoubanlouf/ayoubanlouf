@@ -39,4 +39,33 @@
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
-  <img src="
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/ComfyUI-111827?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="ComfyUI"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server"/>
+  <img src="https://img.shields.io/badge/Active_Directory-005A9E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/>
+  <img src="https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware ESXi"/>
+</p>
+
+<br/>
+
+<img src="/wallpaper.jpg" alt="Banner" width="835" />
+
+<br/><br/>
+
+<a href="https://github.com/ayoubanlouf">
+  <img src="https://streak-stats.demolab.com?user=ayoubanlouf&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubanlouf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubanlouf&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="Top Languages" />
+</p>
+
+</div>

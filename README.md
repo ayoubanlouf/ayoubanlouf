@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://img.shields.io/static/v1?label=%E2%9A%A1&message=DevOps%20%7C%20Cloud%20%7C%20AIOps%20%7C%20Backend&style=flat&color=8A2BE2" alt="Focus Badge"/>
+<p>
+  <img src="https://img.shields.io/static/v1?label=%E2%9A%A1&message=DevOps%20%7C%20Cloud%20%7C%20AIOps%20%7C%20Backend&style=flat&color=8A2BE2" alt="Focus Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ayoubanlouf&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
 
 <h1>Ayoub Anlouf</h1>
 
@@ -19,30 +22,21 @@
   </a>
 </p>
 
-<br/>
-
-<a href="https://github.com/ayoubanlouf">
-  <img src="https://skillicons.dev/icons?i=py,java,ts,fastapi,spring,nextjs,docker,kubernetes,terraform,azure,githubactions,git,linux,postgres,postman,vscode&perline=8" alt="Tech Stack"/>
-</a>
-
-<br/><br/>
-
-<img src="/wallpaper.jpg" alt="Banner" width="835" />
-
-<br/><br/>
-
-<h3>Featured Engineering Work</h3>
-
-| System | Architecture & Impact | Stack |
-|---|---|---|
-| **[PipelineDoctor](https://github.com/ayoubanlouf/PipelineDoctor)** | Autonomous self-healing CI/CD & QA platform with bounded LangGraph state loops (`Triage → Patch → Verify`), ephemeral Docker sandboxes, and n8n alerting (**100% Pass@1** on live benchmarks). | `Python` `LangGraph` `FastAPI` `Docker SDK` `n8n` `PyGithub` |
-| **Closed-Loop GitOps Platform** | Self-healing Kubernetes delivery using ArgoCD App-of-Apps, OpenTelemetry/Prometheus SLO alerting, and an automated Python rollback daemon (**24.2s MTTR**). | `Kubernetes` `ArgoCD` `Prometheus` `OpenTelemetry` `Helm` `FastAPI` |
-| **Hybrid Cloud Governance** | Automated provisioning and compliance enforcement across on-prem Linux VMs and Azure via Terraform, Azure Arc, and Azure Policy. | `Terraform` `Azure Arc` `Azure Policy` `Linux` |
+<p>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-2025_Certified_Foundations-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI Certified"/>
+  <img src="https://img.shields.io/badge/KodeKloud-DevOps_Mastery-2496ED?style=flat-square" alt="DevOps Mastery"/>
+  <img src="https://img.shields.io/badge/Cisco-Linux_Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Linux Essentials"/>
+  <img src="https://img.shields.io/badge/IBM-Docker_Essentials-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="Docker Essentials"/>
+</p>
 
 <br/>
 
 <a href="https://github.com/ayoubanlouf">
-  <img src="https://streak-stats.demolab.com?user=ayoubanlouf&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,grafana,git,postman,vscode&perline=10" alt="Tech Stack"/>
 </a>
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
+  <img src="

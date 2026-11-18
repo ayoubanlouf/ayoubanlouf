@@ -34,14 +34,17 @@
 
 <br/>
 
-<a href="https://github.com/ayoubanlouf">
-  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,js,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,prometheus,grafana,git,postman&perline=10" alt="Tech Stack"/>
-</a>
+<p>
+  <a href="https://github.com/ayoubanlouf">
+    <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,js,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,prometheus,grafana,git,postman&perline=10" alt="Tech Stack"/>
+  </a>
+</p>
 
+<p>&nbsp;</p>
 
-<br/>
-
-<img src="/wallpaper.jpg" alt="Banner" width="835" />
+<p>
+  <img src="/wallpaper.jpg" alt="Banner" width="835" />
+</p>
 
 <br/><br/>
 

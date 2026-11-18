@@ -29,10 +29,18 @@
   <img src="https://img.shields.io/badge/IBM-Docker_Essentials-054ADA?style=flat-square&logo=ibm&logoColor=white" alt="Docker Essentials"/>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Tamazight-Native-1F2428?style=flat-square" alt="Tamazight Native"/>
+  <img src="https://img.shields.io/badge/Arabic-Native-1F2428?style=flat-square" alt="Arabic Native"/>
+  <img src="https://img.shields.io/badge/English-C1_(IELTS_7.0)-2F363D?style=flat-square" alt="English C1 IELTS"/>
+  <img src="https://img.shields.io/badge/French-C1_(TCF)-2F363D?style=flat-square" alt="French C1 TCF"/>
+  <img src="https://img.shields.io/badge/Spanish-B1_(Learning)-444D56?style=flat-square" alt="Spanish B1"/>
+</p>
+
 <br/>
 
 <a href="https://github.com/ayoubanlouf">
-  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,grafana,git,postman,vscode&perline=10" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=py,java,c,php,lua,ts,html,css,tailwind,fastapi,flask,spring,nextjs,react,docker,kubernetes,terraform,ansible,jenkins,githubactions,azure,linux,bash,powershell,postgres,grafana,git,github,postman,vscode&perline=10" alt="Tech Stack"/>
 </a>
 
 <p>
@@ -58,14 +66,14 @@
 <br/><br/>
 
 <a href="https://github.com/ayoubanlouf">
-  <img src="https://streak-stats.demolab.com?user=ayoubanlouf&theme=tokyonight&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=ayoubanlouf&background=161B22&border=30363D&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=835" alt="GitHub Streak" />
 </a>
 
 <br/>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubanlouf&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubanlouf&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubanlouf&show_icons=true&bg_color=161B22&title_color=FFFFFF&text_color=C9D1D9&icon_color=8B949E&ring_color=FFFFFF&hide_border=true&border_radius=15" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubanlouf&layout=compact&bg_color=161B22&title_color=FFFFFF&text_color=C9D1D9&hide_border=true&border_radius=15" height="165" alt="Top Languages" />
 </p>
 
 </div>
